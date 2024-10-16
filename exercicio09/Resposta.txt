@@ -1,0 +1,3 @@
+Uma solução comum de segurança usada em sistemas web de backend é o JWT (JSON Web Token) para autenticação e controle de acesso.
+Essa tecnologia permite que clientes recebam e enviem tokens como prova de autenticação em cada requisição ao servidor, sem precisar manter o estado da sessão no backend.
+Embora o JWT ofereça uma maneira eficiente de controlar sessões sem necessidade de armazenamento no servidor, ele não é uma solução infalível podendo ocorrer a vulnerabilidade a ataques de interceptação e roubo de tokens, ataques de re-jogadas (Replay Attacks) e Manipulação de payload.
