@@ -2,6 +2,7 @@ package com.example.demo.service;
 
 import com.example.demo.dto.JogadorDTO;
 import com.example.demo.mapper.JogadorMapper;
+import com.example.demo.model.Jogador;
 import com.example.demo.repository.JogadorRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;

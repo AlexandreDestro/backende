@@ -1,6 +1,7 @@
 package com.example.demo.controller;
 
 import com.example.demo.dto.JogadorDTO;
+import com.example.demo.service.JogadorService;
 import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.List;

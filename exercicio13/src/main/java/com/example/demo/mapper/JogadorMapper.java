@@ -1,5 +1,7 @@
 package com.example.demo.mapper;
 
+import com.example.demo.dto.JogadorDTO;
+import com.example.demo.model.Jogador;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
